@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/Profit-evaluatif-des-tables-de-hashages/2010_2011_SESSION2/exo2.c
+stdio.h
+-
+stdlib.h
+-
+

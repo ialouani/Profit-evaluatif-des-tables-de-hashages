@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/exec2.dir/exo2.c.o  -o exec2 
