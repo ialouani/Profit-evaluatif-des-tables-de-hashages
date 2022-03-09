@@ -4,6 +4,7 @@
 struct link {
   struct lelement *head;
   struct lelement *tail;
+  struct lelement* curseur;
 };
 
 struct lelement {

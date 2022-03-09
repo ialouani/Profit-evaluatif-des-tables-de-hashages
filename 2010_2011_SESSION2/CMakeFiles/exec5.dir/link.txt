@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/exec5.dir/exo5.c.o  -o exec5 

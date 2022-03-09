@@ -15,7 +15,14 @@ set(SRCS2
 set(SRCS3
     exo3.c
     )
-    
+
+set(SRCS4
+    exo4.c
+    )
+set(SRCS5
+    exo5.c
+    )
+  
 set(HEADERS
     link.h
     )
@@ -24,3 +31,5 @@ set(HEADERS
 add_executable(exec1 ${SRCS1} ${HEADERS})
 add_executable(exec2 ${SRCS2} ${HEADERS})
 add_executable(exec3 ${SRCS3} ${HEADERS})
+add_executable(exec4 ${SRCS4} ${HEADERS})
+add_executable(exec5 ${SRCS5} ${HEADERS})
